@@ -90,8 +90,8 @@ a:hover {
     right: 0;
 }
 
-.texture-paper::before {
-    background: url("img/texture-paper.png");
+.texture-papier::before {
+    background: url("img/texture_papier.png");
     background-size: 280px 280px;
 }
 
@@ -809,20 +809,20 @@ h4 {
     border-color: #364577!important;
 }
 
-.bg-dots-bg {
-    background-image: url("img/dots-bg.png");
+.bg-texture_points {
+    background-image: url("img/texture_points.png");
 }
 
-.bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.png");
+.bg-texture_lignes {
+    background-image: url("img/texture_lignes.png");
 }
 
 .bg-banniere {
-    background-image: url("img/la-chouette-agence-banniere.jpg");
+    background-image: url("img/ecrire-idees-brouillon.jpg");
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/ecrire-post-it.jpg");
 }
 
 @media (max-width: 1024px) {
